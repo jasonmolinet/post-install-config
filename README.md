@@ -21,7 +21,7 @@ This tutorial outlines the post-install configuration and ticket lifecycle of th
 
 Step 1:
 
-![image]()
+![image](https://i.imgur.com/I38gaVr.jpg)
 
 Configure Roles
 - Log into http://localhost/osTicket/scp/login.php with the admin username and password that was set up in the previous installation of osTicket
@@ -30,7 +30,7 @@ Configure Roles
 
 Step 2:
 
-![image]()
+![image](https://i.imgur.com/Z3RwjYA.jpg)
 
 Configure Departments
 - Navigate into admin panel > agents > departments
@@ -38,7 +38,7 @@ Configure Departments
 
 Step 3:
 
-![image]()
+![image](https://i.imgur.com/XaAxA1q.jpg)
 
 Configure Teams
 - Navigate into admin panel > agents > teams
@@ -46,7 +46,7 @@ Configure Teams
 
 Step 4:
 
-![image]()
+![image](https://i.imgur.com/k5sqndg.jpg)
 
 Allow anyone to create tickets
 - Navigate into admin panel > settings > user settings
@@ -54,7 +54,7 @@ Allow anyone to create tickets
 
 Step 5:
 
-![image]()
+![image](https://i.imgur.com/BtWor57.jpg)
 
 Configure Agents (Workers)
 - Navigate to admin panel > agents > add new
@@ -63,7 +63,7 @@ Configure Agents (Workers)
 
 Step 6:
 
-![image]()
+![image](https://i.imgur.com/Tm2gfTX.jpg)
 
 Configure Users (Customers)
 - Navigate to agent panel > users > add new
@@ -73,7 +73,7 @@ Configure Users (Customers)
 
 Step 7:
 
-![image]()
+![image](https://i.imgur.com/7N0wj5F.jpg)
 
 Configure SLA
 - Navigate to admin panel > manage > SLA
@@ -83,7 +83,7 @@ Configure SLA
 
 Step 8:
 
-![image]()
+![image](https://i.imgur.com/90iGTtB.jpg)
 
 Configure Help Topics
 - Navigate to admin panel > manage > help topics
@@ -92,7 +92,7 @@ Configure Help Topics
 - Add a new help topic and name it Equipment Request, remember to set the SLA to Sev-B or C in the second tab and create
 - Add a new help topic and name it Password Rest, remember to set the SLA to Sev-B or C in the second tab and create
 
-Ticket Lifecycle
+<h2>Ticket Lifecycle</h2>
 
 
 
